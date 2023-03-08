@@ -1,0 +1,2 @@
+JMH S 58 com.dutra.algorithm.daimo.SelectionSortTest.BenchmarkState S 97 com.dutra.algorithm.daimo.jmh_generated.SelectionSortTest_BenchmarkState_shouldSelectSort_jmhTest S 16 shouldSelectSort S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 43 com.dutra.algorithm.daimo.SelectionSortTest S 70 com.dutra.algorithm.daimo.jmh_generated.SelectionSortTest_test_jmhTest S 4 test S 11 AverageTime E A 1 1 1 E I 1 3 T 5 10 ms E I 2 10 T 5 10 ms E I 1 1 I 1 1 E E E E M 1 10 iterations 3 8 xAAMAA== 8 xAAMAADA 16 xAAMAADAwAA===== U 12 MILLISECONDS E E 
